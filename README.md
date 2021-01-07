@@ -21,3 +21,9 @@ Link to older Github Profile: [geekyarthurs](https://github.com/geekyarthurs)
 ## Currently Exploring
 
 :star: GoLang :star: AWS :star: Docker and K8S :star: SQL :star: Rust :star:
+
+## Achievements in Life
+
+:crown:	Bernhack Winner ( First Largest MLH Hackathon of Nepal )
+
+:crown: Gave a Two-Day Python Workshon on CSITAN Pokhara
