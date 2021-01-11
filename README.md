@@ -1,6 +1,6 @@
 # :computer: Mahesh C. Regmi
 
-Welcome to my new GitHub Profile. The last one got messier so I decided to make a new GitHub.
+Welcome to my Github. I'm a CS Student, passionate about data, cloud, backend and linux.
 
 
 ## Who Am I?
