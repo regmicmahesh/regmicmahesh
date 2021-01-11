@@ -2,7 +2,6 @@
 
 Welcome to my new GitHub Profile. The last one got messier so I decided to make a new GitHub.
 
-Link to older Github Profile: [geekyarthurs](https://github.com/geekyarthurs)
 
 ## Who Am I?
 
